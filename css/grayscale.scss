@@ -177,9 +177,9 @@ a {
             font-size: 40px;
         }
         .intro-text {
-            font-size: 18px;
+            font-size: 24px;
             @if $navbar-text-shadow {
-                text-shadow: 1px 0 1px #000;
+                text-shadow: 1px 1px 1px #000;
             }
         }
     }

@@ -32,7 +32,7 @@ lang: "en"
 author: "Sam Woodson"
 title: "{ Sam Woodson }"
 description: "Sam Woodson's web projects"
-keywords: "sam, woodson, personal, jekyll, theme"
+keywords: "sam, woodson, developer"
 favicon: "/img/favicon.ico"
 
 ################
@@ -145,8 +145,8 @@ social:
     url: "https://resume.creddle.io/resume/g042rw7h3bk"
   - title: "envelope"
     url: "mailto:samuelwoodson@gmail.com"
-  - title: "rss"
-    url: "/feed.xml"
+  # - title: "rss"
+    # url: "/feed.xml"
   - title: "github"
     url: "https://github.com/samwoodson"
 
